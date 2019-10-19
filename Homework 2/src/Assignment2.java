@@ -1,8 +1,7 @@
 /*
- * Name:			Wallace Coleman
+ * Name:		Wallace Coleman
  * Course Name:		Operating Systems
- * Semester:		Spring 2019
- * Assignment:		Assignment 2
+ * Date:		Spring 2019
 */
 
 import java.util.ArrayList;
